@@ -30,7 +30,7 @@
 <a href="" target="_blank">
   <img align="center" alt="hichemBA67 Portfolio" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/www.svg" />
 </a> &nbsp;&nbsp;
-<a href="" target="_blank">
+<a href="https://www.linkedin.com/in/hichem-benaoun/" target="_blank">
   <img align="center" alt="hichemBA67 Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
 </a> &nbsp;&nbsp;
 <a href="https://twitter.com/darshan_r_27" target="_blank">
