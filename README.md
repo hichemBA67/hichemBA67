@@ -5,6 +5,23 @@
 </a>
 <br>  
 
+
+<!--   Stats -->
+### 📊 GitHub Stats:
+![Darshan R github stats](https://github-readme-stats.vercel.app/api?username=hichemBA67&theme=nord&show_icons=true&count_private=true)
+  
+  
+<!--   Top Languages Using -->
+### 👨‍💻 Top Languages Used*:
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hichemBA67&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hichemBA67&theme=nord_dark)
+
+
+<!--   GitHub stats graph -->
+### 📈 GitHub Activity Graph:
+ ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hichemBA67&theme=github)
+<br>
+
 ##
 <p align="center"> 
   Visitor count<br>
