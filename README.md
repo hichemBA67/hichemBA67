@@ -1,5 +1,5 @@
 <!-- Profile Trophy -->
-### 🏆 GitHub Profile Trophy:
+## 🏆 GitHub Profile Trophy:
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=hichemBA67&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
 </a>
@@ -48,7 +48,7 @@
 
 
 <!--   Stats -->
-### 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![Darshan R github stats](https://github-readme-stats.vercel.app/api?username=hichemBA67&theme=nord&show_icons=true&count_private=true)
   
   
