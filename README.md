@@ -15,6 +15,8 @@
 <img src="https://iconape.com/wp-content/png_logo_vector/typescript.png" alt="drawing" width="50"/>
 <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_128x128.png" alt="drawing" width="50"/>
 <img src="https://www.php.net/images/logos/php-med-trans.png"alt="drawing" width="50"/> 
+ <img src="https://cdn-icons-png.flaticon.com/512/1216/1216733.png"alt="drawing" width="50"/> 
+<img src="https://cdn-icons-png.flaticon.com/512/732/732190.png"alt="drawing" width="50"/> 
 </span>
 
 
