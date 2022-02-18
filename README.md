@@ -1,3 +1,37 @@
+<div align="center" ><img  height="50%" width="100%" alt="welcome to my profile!" src="https://external-preview.redd.it/mO1AkmXYMhyQDKKDRotReW2NWR4dYv_sRUs6_9r9M1g.jpg?auto=webp&s=d3423a72925f74fe60723e2429828529364f1600"></div>
+<h1 align="center">Hi 👋, I'm Hichem Ben Aoun</h1>
+<h3 align="center">I have a Bachelor's Degree in International Information Systems Management and a passion for Software Development & Blockchain</h3>
+
+
+- 🔭 I’m currently working on a **dAPP** and a web-based **employee appraisal tool**
+
+- 💬 Ask me about **any thing web or blockchain related**
+
+- 📫 How to reach me **Linkedin : https://www.linkedin.com/in/hichem-ben-aoun-3bb6a5209/**
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="center">
+<a href="" target="_blank">
+  <img align="center" alt="hichemBA67 Portfolio" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/www.svg" />
+</a> &nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/hichem-benaoun/" target="_blank">
+  <img align="center" alt="hichemBA67 Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+</a> &nbsp;&nbsp;
+<a href="https://twitter.com/darshan_r_27" target="_blank">
+  <img align="center" alt="hichemBA67 Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
+</a> &nbsp;&nbsp;
+<a href="https://www.instagram.com/darshan_r_27/" target="_blank">
+  <img align="center" alt="hichemBA67 Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+</a> &nbsp;&nbsp;
+<a href="mailto:hichem.benaoun@icloud.com" target="_blank">
+  <img align="center" alt="hichemBA67 Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+</a> &nbsp;&nbsp;
+<a href="">
+    <img align="center" alt="hichemBA67 Resume" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/resume.png" />
+</a> &nbsp;&nbsp;
+<p>
+
 <!-- Profile Trophy -->
 ## 🏆 GitHub Profile Trophy:
 <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -64,29 +98,7 @@
 <br>
 
 
-  <div align="center">
-  <h3><bYou Can Connect With Me On :</b></h3>
-  </div>
-<p align="center">
-<a href="" target="_blank">
-  <img align="center" alt="hichemBA67 Portfolio" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/www.svg" />
-</a> &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/hichem-benaoun/" target="_blank">
-  <img align="center" alt="hichemBA67 Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-</a> &nbsp;&nbsp;
-<a href="https://twitter.com/darshan_r_27" target="_blank">
-  <img align="center" alt="hichemBA67 Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
-</a> &nbsp;&nbsp;
-<a href="https://www.instagram.com/darshan_r_27/" target="_blank">
-  <img align="center" alt="hichemBA67 Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
-</a> &nbsp;&nbsp;
-<a href="mailto:hichem.benaoun@icloud.com" target="_blank">
-  <img align="center" alt="hichemBA67 Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-</a> &nbsp;&nbsp;
-<a href="">
-    <img align="center" alt="hichemBA67 Resume" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/resume.png" />
-</a> &nbsp;&nbsp;
-<p>
+
   
 <br>
 ##
