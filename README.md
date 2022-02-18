@@ -14,9 +14,9 @@
 <img src="https://qph.fs.quoracdn.net/main-qimg-5219c66be82c7b394fc1d18f2fbe9a12-lq" alt="drawing" width="90" />
 <img src="https://iconape.com/wp-content/png_logo_vector/typescript.png" alt="drawing" width="50"/>
 <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_128x128.png" alt="drawing" width="50"/>
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" alt="drawing" width="45"/>
-<img src="https://www.php.net/images/logos/php-med-trans.png"alt="drawing" width="50"/> 
- <img src="https://cdn-icons-png.flaticon.com/512/1216/1216733.png"alt="drawing" width="50"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" alt="drawing" width="45"/>
+<img src="https://www.php.net/images/logos/php-med-trans.png"alt="drawing" width="50" style="margin-left: 1px; margin-bottom: 3px"/> 
+<img src="https://cdn-icons-png.flaticon.com/512/1216/1216733.png"alt="drawing" width="50"/> 
 <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png"alt="drawing" width="50"/> 
 </span>
 
