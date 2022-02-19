@@ -72,7 +72,7 @@
 ### 🧑🏻‍💻 Tools & Platform
 
 <span>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>
+<img src="https://iconape.com/wp-content/png_logo_vector/node-js-2.png" alt="nodejs" width="50" height="50"/>
 <img src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png" alt="drawing" width="50" />
 <img src="https://seeklogo.com/images/K/kubernetes-logo-3A67038EAB-seeklogo.com.png" alt="drawing" width="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" alt="drawing" width="40"/>
