@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **Linkedin : https://www.linkedin.com/in/hichem-ben-aoun-3bb6a5209/**
 
+- ⚡ Fun fact **I am an aviation enthusiast**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
@@ -49,7 +51,7 @@
 <img src="https://iconape.com/wp-content/png_logo_vector/typescript.png" alt="drawing" width="50"/>
 <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_128x128.png" alt="drawing" width="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" alt="drawing" width="45"/>
-<img src="https://www.php.net/images/logos/php-med-trans.png"alt="drawing" width="50"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/>
 <img src="https://cdn-icons-png.flaticon.com/512/1216/1216733.png"alt="drawing" width="50"/> 
 <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png"alt="drawing" width="50"/> 
 </span>
@@ -58,27 +60,32 @@
 ### 💻 Libraries & Framework
 
 <span>
-<img src="https://expressjs.com/images/express-facebook-share.png" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/640px-Angular_full_color_logo.svg.png" alt="drawing" width="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/640px-React.svg.png" alt="drawing" width="50"/>
 <img src="https://believemy.com/uploads/ee57727072f707a5ded8f633df86def8_83ad366df58d43e1147bb711e8c8768c.png" alt="drawing" width="50"/>
 <img src="https://seeklogo.com/images/T/truffle-logo-357454171D-seeklogo.com.png" alt="drawing" width="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/640px-Bootstrap_logo.svg.png" alt="drawing" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/>
   <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg" alt="drawing" width="60"/>
 </span>
 
 ### 🧑🏻‍💻 Tools & Platform
 
 <span>
-<img src="https://cdn4.vectorstock.com/i/1000x1000/14/03/node-js-emblem-vector-28501403.jpg" alt="drawing" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>
 <img src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png" alt="drawing" width="50" />
 <img src="https://seeklogo.com/images/K/kubernetes-logo-3A67038EAB-seeklogo.com.png" alt="drawing" width="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" alt="drawing" width="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" alt="drawing" width="40"/>
 <img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" alt="drawing" width="50"/>
 <img src="https://seeklogo.com/images/G/ganache-logo-1EB72084A8-seeklogo.com.png" alt="drawing" width="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/MetaMask_Fox.svg/800px-MetaMask_Fox.svg.png" alt="drawing" width="50"/>
-
 </span>
+  
+### 🧑🏻‍💻 DBs
+  <span>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
+  </span>
 
 
 <!--   Stats -->
