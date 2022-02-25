@@ -20,7 +20,7 @@
 <a href="https://www.linkedin.com/in/hichem-benaoun/" target="_blank">
   <img align="center" alt="hichemBA67 Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
 </a> &nbsp;&nbsp;
-<a href="https://twitter.com/darshan_r_27" target="_blank">
+<a href="https://twitter.com/hichem673" target="_blank">
   <img align="center" alt="hichemBA67 Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
 </a> &nbsp;&nbsp;
 <a href="https://www.instagram.com/darshan_r_27/" target="_blank">
