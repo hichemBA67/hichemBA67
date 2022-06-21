@@ -65,6 +65,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/640px-React.svg.png" alt="drawing" width="50"/>
 <img src="https://believemy.com/uploads/ee57727072f707a5ded8f633df86def8_83ad366df58d43e1147bb711e8c8768c.png" alt="drawing" width="50"/>
 <img src="https://seeklogo.com/images/T/truffle-logo-357454171D-seeklogo.com.png" alt="drawing" width="50"/>
+<img src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" alt="drawing" width="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/>
   <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg" alt="drawing" width="60"/>
 </span>
@@ -77,7 +78,6 @@
 <img src="https://seeklogo.com/images/K/kubernetes-logo-3A67038EAB-seeklogo.com.png" alt="drawing" width="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" alt="drawing" width="40"/>
 <img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8"  alt="drawing" width="50"/>
-<img src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" alt="drawing" width="50"/>
 <img src="https://seeklogo.com/images/G/ganache-logo-1EB72084A8-seeklogo.com.png" alt="drawing" width="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/MetaMask_Fox.svg/800px-MetaMask_Fox.svg.png" alt="drawing" width="50"/>
 </span>
