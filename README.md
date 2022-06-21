@@ -51,7 +51,9 @@
 <img src="https://iconape.com/wp-content/png_logo_vector/typescript.png" alt="drawing" width="50"/>
 <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_128x128.png" alt="drawing" width="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" alt="drawing" width="45"/>
+<img src="https://iconape.com/wp-content/png_logo_vector/c.png" alt="php" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/>
+<img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="php" width="50" height="50"/>
 </span>
 
 
