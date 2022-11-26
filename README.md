@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Hichem Ben Aoun</h1>
 <h3 align="center">I have a Bachelor's Degree in International Information Systems Management and a passion for Software Development & Blockchain</h3>
 
+- 📚 I'm currently studying Information Systems (M.Sc) at the Karlsruhe Institute of Technology 
 
 - 🔭 I’m currently working on a **dAPP** and a web-based **employee appraisal tool**
 
